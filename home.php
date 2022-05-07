@@ -136,6 +136,10 @@
                 </div>
             </div>
 
+            <div class="row my-5 justify-content-center">
+                <a href="product.php" class="btn btn-custom p-3 rounded shadow width-1n8x">Selengkapnya</a>
+            </div>
+
         </div>
     </div>
 
